@@ -1,0 +1,5 @@
+num1 = input("1番目の数字を入力してください：")
+num2 = input("2番目の数字を入力してください：")
+num3 = input("3番目の数字を入力してください：")
+max_num = max(num1,num2,num3)
+print(f"最大値は{max_num}です")
